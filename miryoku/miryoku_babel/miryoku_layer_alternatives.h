@@ -304,10 +304,10 @@ U_NA,              &kp RALT,          &u_to_U_SYM,       &u_to_U_MOUSE,     U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MOUSE \
-U_BOOT,            U_CUT,             U_CPY,             U_PST,             U_NA,              U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
-U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             U_NU,              U_MS_L,            U_MS_D,            U_MS_U,            U_MS_R,            \
-&kp LC(S),       &kp RALT,          &u_to_U_SYM,       &u_to_U_MOUSE,     U_NA,              U_NU,              U_WH_L,            U_WH_D,            U_WH_U,            U_WH_R,            \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
+U_BOOT,            U_CUT,             U_CPY,             U_PST,             U_NA,              PIPE,             LEFT_BRACE,        DOLLAR,            LESS_THAN,         GREATER_THAN,             \
+&kp LC(Z),         U_CUT,             U_CPY,             U_PST,             &kp LC(Y),         PLUS,             LEFT_PARENTHESIS,  GRAVE,             SLASH,      EXCLAMATION,            \
+&kp LC(S),         &kp RALT,          BACKSPACE,       DELETE,              &kp LC(H),         MINUS,            LEFT_BRACKET,      RIGHT_BRACKET,     UNDERSCORE,        QUESTION,            \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              SINGLE_QUOTE,     SEMICOLON,         DOUBLE_QUOTES,     U_NP,              U_NP
 
 
 #define MIRYOKU_ALTERNATIVES_MEDIA_INVERTEDT_FLIP \
