@@ -304,9 +304,9 @@ U_NA,              &kp RALT,          &u_to_U_SYM,       &u_to_U_MOUSE,     U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MOUSE \
-U_BOOT,            U_CUT,             U_CPY,             U_PST,             U_NA,              PIPE,             LEFT_BRACE,        DOLLAR,            LESS_THAN,         GREATER_THAN,             \
-&kp LC(Z),         U_CUT,             U_CPY,             U_PST,             &kp LC(Y),         PLUS,             LEFT_PARENTHESIS,  GRAVE,             SLASH,      EXCLAMATION,            \
-&kp LC(S),         &kp RALT,          BACKSPACE,       DELETE,              &kp LC(H),         MINUS,            LEFT_BRACKET,      RIGHT_BRACKET,     UNDERSCORE,        QUESTION,            \
+U_BOOT,            U_CUT,             U_CPY,             U_PST,             U_NA,              PIPE,             LEFT_BRACE,        DOLLAR,            LESS_THAN,         GREATER_THAN,        \
+&kp LC(Z),         U_CUT,             U_CPY,             U_PST,             &kp LC(Y),         PLUS,             LEFT_PARENTHESIS,  GRAVE,             SLASH,             EXCLAMATION,         \
+&kp LC(S),         &kp RALT,          BACKSPACE,         DELETE,            &kp LC(H),         MINUS,            LEFT_BRACKET,      RIGHT_BRACKET,     UNDERSCORE,        QUESTION,            \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              SINGLE_QUOTE,     SEMICOLON,         DOUBLE_QUOTES,     U_NP,              U_NP
 
 
