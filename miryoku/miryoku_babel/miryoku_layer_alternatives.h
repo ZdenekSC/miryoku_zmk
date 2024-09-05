@@ -361,10 +361,10 @@ U_NA,              &kp RALT,          &u_to_U_MOUSE,     &u_to_U_SYM,       U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp UNDER,         &kp LPAR,          &kp RPAR,          U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_SYM \
-&kp LBRC,          &kp AMPS,          &kp ASTRK,         &kp LPAR,          &kp RBRC,          U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
-&kp COLON,         &kp DLLR,          &kp PRCNT,         &kp CARET,         &kp PLUS,          U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
-&kp TILDE,         &kp EXCL,          &kp AT,            &kp HASH,          &kp PIPE,          U_NA,              &u_to_U_SYM,       &u_to_U_MOUSE,     &kp RALT,          U_NA,              \
-U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDER,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+&kp SQT,           &kp LT,            &kp GT,            &kp DQT,           &kp DOT,           &kp AMPS,          U_NA,              &kp LBKT,          &kp RBKT,          &kp PRCNT,            \
+&kp EXCL,          &kp MINUS,         &kp PLUS,          &kp EQUAL,         &kp HASH,          &kp PIPE,          &kp COLON,         &kp LPAR,          &kp RPAR,          &kp QMARK,          \
+&kp CARET,         &kp SLASH,         &kp ASTRK,         &kp BACKSLASH,     U_NA,              &kp TILDE,         &kp DOLLAR,        &kp LBRC,          &kp RBRC,          &kp AT,              \
+U_NP,              U_NP,              &kp UNDER,         &kp SEMI,          &kp COLON,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 
 #define MIRYOKU_ALTERNATIVES_FUN_FLIP \
