@@ -351,7 +351,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 &kp ASTRK,          &kp N7,            &kp N8,            &kp N9,            &kp MINUS,        U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
 &kp SLASH,          &kp N4,            &kp N5,            &kp N6,            &kp PLUS,         U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
 &kp PRCNT,         &kp N1,            &kp N2,            &kp N3,            &kp EQUAL,        U_NA,              &u_to_U_NUM,       &u_to_U_NAV,       &kp RALT,          U_NA,              \
-U_NP,              U_NP,              &kp LPAR,          &kp RPAR,            &kp DOT,          U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+U_NP,              U_NP,              &kp LPAR,          &kp &kp N0,            &kp DOT,          U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 
 #define MIRYOKU_ALTERNATIVES_SYM_FLIP \
